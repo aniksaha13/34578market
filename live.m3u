@@ -99,8 +99,8 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8
 http://tvsen7.aynascope.net/sjhdbd/tracks-v1a1/mono.ts.m3u8?e=1763008846&token=8648ca8617566b445021a77ff7bdbe16&u=2d9bb344-6d25-4409-ae9d-9644abd0bc4d
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1780924654:KeyName=prod_linear:Signature=Ms5b57QqK3ioOPY0FHyqBrYsn6zkLRwe9yhbdr6GWluFX6qWCTiV1bcdA9T8MpLsZeD-ccXQmnYDxdN-HuMhCA"}
-#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://i.imgur.com/6PXiBCB.jpeg",[BD] colors bangla
-http://103.180.212.191:3500/live/1369.m3u8
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors bangla
+https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
 
 
 
