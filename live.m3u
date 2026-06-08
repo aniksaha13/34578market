@@ -90,6 +90,10 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",[BD] Zee Bangla
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1780924654:KeyName=prod_linear:Signature=Ms5b57QqK3ioOPY0FHyqBrYsn6zkLRwe9yhbdr6GWluFX6qWCTiV1bcdA9T8MpLsZeD-ccXQmnYDxdN-HuMhCA"}
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://i.imgur.com/nerVeTp.jpeg",[BD] Zee Bangla HD
+https://tvsen5.aynaott.com/PNEb3v2q6GBk/tracks-v1a1/mono.ts.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1780924644:KeyName=prod_linear:Signature=lqXARpGhDYxA1lp5oxINIiQ0HjnvbspwGOQD3E_qod5vU9ZK78MZbeddcfb9m7OQ_YYccRUChZoQpWJTTWmdAQ"}
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-C7MX5UBv9knK3AHdKOi/posters/90d82846-70b9-44ee-9f7e-e440f00b3be8.png",[BD] Zee Bangla Cinema
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8
@@ -105,15 +109,6 @@ https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1780924654:KeyName=prod_linear:Signature=Ms5b57QqK3ioOPY0FHyqBrYsn6zkLRwe9yhbdr6GWluFX6qWCTiV1bcdA9T8MpLsZeD-ccXQmnYDxdN-HuMhCA"}
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema
 http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1780924644:KeyName=prod_linear:Signature=lqXARpGhDYxA1lp5oxINIiQ0HjnvbspwGOQD3E_qod5vU9ZK78MZbeddcfb9m7OQ_YYccRUChZoQpWJTTWmdAQ"}
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/5y7HX5UBv9knK3AHs6Nk/posters/7582fb79-c15f-4247-ba5b-1d2dd27f3d71.png",[BD] Zee Cinema HD
