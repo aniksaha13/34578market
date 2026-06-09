@@ -36,8 +36,7 @@ https://playztv-apps.pages.dev/tsports/index.m3u8
 
                        ★ //toffee//★
 
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1781170450:KeyName=prod_linear:Signature=174OWJUk7da-C301759Dq32IenG6nwJYfBpURg9GXUnETW06Cto5HeM8YXEQk4wPPYBOekssiCsSRgFz77h4Dw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_music/playlist.m3u8
+
 #EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png", SONY SAB HD VIP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1781170450:KeyName=prod_linear:Signature=174OWJUk7da-C301759Dq32IenG6nwJYfBpURg9GXUnETW06Cto5HeM8YXEQk4wPPYBOekssiCsSRgFz77h4Dw"}
