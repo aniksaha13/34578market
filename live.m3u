@@ -167,7 +167,7 @@ http://145.239.5.177:80/559/index.m3u8
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="sports",Bein Sports 2 - serbia (FIFA)
 http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
-#EXTINF:-1, TUDN 1080 (FIFA) EXTINF:-1 tvg-id="100" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="sports",tudn 1080 -  (FIFA)
+#EXTINF:-1 tvg-id="100" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="sports",tudn 1080 -  (FIFA)
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="sports",Bein Sports 1
 http://27.124.71.27/beIN_Sports_1/index.m3u8
@@ -205,7 +205,7 @@ https://tvsen6.aynaott.com/asports/index.m3u8
 https://tvsen5.aynaott.com/PtvSports/index.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="sports",Tsn 1
 https://tvsen7.aynaott.com/tsn1/index.m3u8
-#EXTINF:-1, TSN 2 EXTINF:-1 tvg-id="100" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="sports",Tsn 2
+#EXTINF:-1 tvg-id="100" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="sports",Tsn 2
 https://tvsen7.aynaott.com/tsn2/index.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="sports",Tsn 3
 https://tvsen7.aynaott.com/tsn3/index.m3u8
