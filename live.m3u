@@ -248,8 +248,7 @@ http://tvsen7.aynascope.net/sjhdbd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors bangla
 https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema
-http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
-
+http://103.180.212.191:3500/live/1657.m3u8
                          ///★★sport★★//
 
 #EXTINF:-1 tvg-id="100" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="sports",FIFA Plus English 
